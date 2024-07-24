@@ -1,6 +1,6 @@
 package class1.ex;
 
-public class ProductOrderMain1 {
+public class ProductOrderMain {
 
     public static void main(String[] args) {
         ProductOrder[] orders = new ProductOrder[3];
